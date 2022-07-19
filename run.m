@@ -3,7 +3,7 @@ clearvars
 clc
 
 path = 'data';
-file = 'Test';
+file = 'Test'; % Unzip /data/Test.zip
 
 pathFile = [path '/' file];
 
